@@ -1,10 +1,10 @@
-<h1>Conversor de Moedas</h1>
+<h1 align="center" >👉 ​Conversor de Moedas ​👈​</h1>
 
 💱 Conversor de Moedas
 
 Um projeto desenvolvido com **HTML, CSS e JavaScript** que permite converter valores entre diferentes moedas de forma simples, rápida e intuitiva.
 
-<h2>🚀 Funcionalidades</h2> 
+<h2 align="center">🚀 Funcionalidades</h2> 
 
 - 💵 Conversão entre:
   - Real (BRL)
@@ -19,10 +19,24 @@ Um projeto desenvolvido com **HTML, CSS e JavaScript** que permite converter val
 
 ---
 
+## 📸 Preview
+
+<img src="https://github.com/Pedr4o/Conversor/blob/main/assents/FMoedas.png?raw=true">
+
+<img src="https://github.com/Pedr4o/Conversor/blob/main/assents/FLibra.png?raw=true">
+
+<img src="https://github.com/Pedr4o/Conversor/blob/main/assents/FEuro.png?raw=true">
+
+<img src="https://github.com/Pedr4o/Conversor/blob/main/assents/FDolar.png?raw=true">
 
 
 
-## 👨‍💻 Autor
+
+
+
+
+
+<h1 align="center" > 👨‍💻 Autor</h1>
 
 Desenvolvido por **Pedro Barbosa**.
 
