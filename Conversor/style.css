@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    outline: none;
+    
+
+}
+
+body {
+    background: linear-gradient( 90deg, rgba(34,55,148,1) 0%, rgba(0,212,255,1) 100%);
+
+}
+
+main {
+    width: 375px;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 100px;
+    padding: 44px 24px;
+    box-shadow:  20px 20px 20px  rgba(0, 0, 0, 0.25);
+    border: 1px solid rgb(175, 173, 173);
+    background: linear-gradient(to bottom, #ffffff 30%, #b0b0cc 100%);
+    
+
+    
+}
+
+label{
+    color:#777777;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+select, input{
+    height: 48px;
+    width: 100%;
+    border-radius: 8px;
+    appearance: none;
+    color:#555555;
+    padding-left: 16px;
+    margin-bottom: 24px;
+    cursor:pointer;
+    border: 1px solid #797f85;
+    transition: opacity 0.2s;
+    
+}
+input:focus {
+    border-color:rgba(0,212,255,1) ; 
+}
+
+
+div{
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+button{
+    width: 250px;
+    height: 48px;
+    border-radius: 5px;
+    margin-left: 11%;
+    background: linear-gradient( 90deg, rgba(34,55,148,1) 0%, rgba(0,212,255,1) 100%);
+    border: none;
+    font-size: 18px;
+    color:#FFFFFF;
+    box-shadow: 0px 7px 10px gray;
+    margin-bottom: 40px;
+    cursor: pointer;
+
+}
+
+button:hover{
+    opacity: 0.8;
+
+}
+
+
+.moedaConvertida{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.flecha{
+    padding: 15px 0px;
+
+}
+
+
+.moedas{
+    font-weight: 400;
+    color:#777777;
+    font-size: 14px;
+
+}
+
+.valorConvertido{
+    color:#555555;
+    font-size: 20px;
+   
+
+}
